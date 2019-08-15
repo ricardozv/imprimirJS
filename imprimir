@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> Javascript</title>
+<meta charset="UTF-8">
+<script>
+function imprimir() {
+	window.print();
+}
+</script>
+</head>
+<body>
+<h1> Página de onda</h1>
+<p> Ao clicar no botão onda acontece <p>
+
+<button onclick="imprimir()"> Click aqui para imprimir</button>
+</body>
+</html>
